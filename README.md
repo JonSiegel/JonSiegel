@@ -4,6 +4,7 @@ I'm a Mechanical Engineering student at **Cal Poly San Luis Obispo**, concentrat
 I like building things where hardware and software meet: robots, embedded systems, and automated machines.
 
 - 🤖 Currently building a **250 lb BattleBots combat robot** for my senior project
+- 🧭 Programmed a microcontroller in MicroPython for an autonomous robot: task scheduler, closed-loop motor control, sensor integration
 - 🔧 Interested in **robotics, embedded systems, system automation, and hardware design**
 - 💻 Work with **Python / MicroPython, MATLAB, and CAD (SolidWorks)**
 - 🎯 Looking for **full-time mechanical / mechatronics engineering roles** starting 2027
